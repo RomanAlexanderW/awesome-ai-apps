@@ -8,7 +8,7 @@ async-timeout==4.0.3
 attrs==26.1.0
 blinker==1.9.0
 cachetools==7.1.4
-certifi==2026.6.17
+certifi==2026.10.18
 cffi==2.1.0
 charset-normalizer==3.4.9
 click==8.4.2
@@ -19,7 +19,7 @@ faiss-cpu==1.14.3
 filetype==1.2.0
 frozenlist==1.8.0
 gitdb==4.0.12
-gitpython==3.1.51
+gitpython==3.2.1
 google-ai-generativelanguage==0.12.0
 google-api-core==2.31.0
 google-auth==2.56.0
@@ -46,10 +46,10 @@ langchain-core==1.4.9
 langchain-google-genai==4.2.7
 langchain-protocol==0.0.18
 langchain-text-splitters==1.1.2
-langgraph==1.2.9
+langgraph==1.2.20
 langgraph-checkpoint==4.1.1
 langgraph-prebuilt==1.1.0
-langgraph-sdk==0.4.2
+langgraph-sdk==0.4.6
 langsmith==0.10.3
 markupsafe==3.0.3
 multidict==6.7.1
@@ -64,14 +64,14 @@ propcache==0.5.2
 proto-plus==1.28.1
 protobuf==7.35.1
 pyarrow==24.0.0
-pyasn1==0.6.4
+pyasn1==0.6.5
 pyasn1-modules==0.4.2
 pycparser==3.0
 pydantic==2.13.4
 pydantic-core==2.46.4
 pydantic-settings==2.14.2
 pydeck==0.9.3
-pypdf==6.14.2
+pypdf==6.21.4
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
 python-multipart==0.0.32
